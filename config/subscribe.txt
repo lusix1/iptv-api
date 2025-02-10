@@ -17,3 +17,4 @@ https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/athlongSu/TV/main/live.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/lusix1/mytv/refs/heads/main/upto.txt
+https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
