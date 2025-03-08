@@ -1,51 +1,79 @@
 🕘️更新时间,#genre#
-2025-03-08 06:41:18,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
+2025-03-08 18:42:46,http://tvbox6.icu/tv/migu.php?id=cctv1$订阅源-1920x1080
 
 📺央视频道,#genre#
+CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1$订阅源-1920x1080
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
-CCTV-1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8$订阅源-1920x1080
-CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
+CCTV-2,http://tvbox6.icu/tv/migu.php?id=cctv2$订阅源-1920x1080
+CCTV-3,http://tvbox6.icu/tv/migu.php?id=cctv3$订阅源-1920x1080
+CCTV-4,http://tvbox6.icu/tv/migu.php?id=cctv4o$订阅源-1920x1080
+CCTV-5,http://tvbox6.icu/tv/migu.php?id=cctv5$订阅源-1920x1080
+CCTV-5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源-1920x1080
+CCTV-6,http://tvbox6.icu/tv/migu.php?id=cctv6$订阅源-1920x1080
+CCTV-7,http://tvbox6.icu/tv/migu.php?id=cctv7$订阅源-1920x1080
+CCTV-8,http://tvbox6.icu/tv/migu.php?id=cctv8$订阅源-1920x1080
+CCTV-9,http://tvbox6.icu/tv/migu.php?id=cctv9$订阅源-1920x1080
+CCTV-10,http://tvbox6.icu/tv/migu.php?id=cctv10$订阅源-1920x1080
+CCTV-11,http://tvbox6.icu/tv/migu.php?id=cctv11$订阅源-1920x1080
+CCTV-12,http://tvbox6.icu/tv/migu.php?id=cctv12$订阅源-1920x1080
+CCTV-13,http://tvbox6.icu/tv/migu.php?id=cctv13$订阅源-1920x1080
+CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14$订阅源-1920x1080
+CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源-1920x1080
+CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17$订阅源-1920x1080
+CHC影迷电影,http://tvbox6.icu/tv/iptv2.php?id=88$订阅源-1920x1080
 
 📺4K频道,#genre#
 
 💰央视付费频道,#genre#
 
 ☘️广东电信,#genre#
+睛彩竞技,http://tvbox6.icu/tv/zb/zjctcc.php?id=343$订阅源-1920x1080
+广州新闻,http://tvbox6.icu/tv/gdmzyd.php?id=18$订阅源-1920x1080
 
 📡卫视频道,#genre#
-北京卫视,http://1.180.2.93:9901/tsfile/live/0122_1.m3u8$订阅源-1920x1080
-湖北卫视,http://1.180.2.93:9901/tsfile/live/0132_1.m3u8$订阅源-1920x1080
+广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws$订阅源-1920x1080
+湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws$订阅源-1920x1080
+湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws$订阅源-1920x1080
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源-1920x1080
-黑龙江卫视,http://1.180.2.93:9901/tsfile/live/0143_1.m3u8$订阅源-1920x1080
-广西卫视,http://1.180.2.93:9901/tsfile/live/0113_1.m3u8$订阅源-1920x1080
-海南卫视,http://1.180.2.93:9901/tsfile/live/1033_1.m3u8$订阅源-1920x1080
-河北卫视,http://1.180.2.93:9901/tsfile/live/0117_1.m3u8$订阅源-1920x1080
-河南卫视,http://1.180.2.93:9901/tsfile/live/0139_1.m3u8$订阅源-1920x1080
-江西卫视,http://1.180.2.93:9901/tsfile/live/0138_1.m3u8$订阅源-1920x1080
-辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8$订阅源-1920x1080
-内蒙古卫视,http://1.180.2.93:9901/tsfile/live/1068_1.m3u8$订阅源-1920x1080
-青海卫视,http://1.180.2.93:9901/tsfile/live/0140_1.m3u8$订阅源-1920x1080
-山东卫视,http://1.180.2.93:9901/tsfile/live/0131_1.m3u8$订阅源-1920x1080
+重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws$订阅源-1920x1080
+东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws$订阅源-1920x1080
+甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws$订阅源-1920x1080
+广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws$订阅源-1920x1080
+贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws$订阅源-1920x1080
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws$订阅源-1920x1080
+海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws$订阅源-1920x1080
+河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws$订阅源-1920x1080
+吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws$订阅源-1920x1080
+江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws$订阅源-1920x1080
+江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws$订阅源-1920x1080
+辽宁卫视,http://tvbox6.icu/tv/migu.php?id=lnws$订阅源-1920x1080
+内蒙古卫视,http://tvbox6.icu/tv/migu.php?id=nmws$订阅源-1920x1080
+宁夏卫视,http://tvbox6.icu/tv/migu.php?id=nxws$订阅源-1920x1080
+青海卫视,http://tvbox6.icu/tv/migu.php?id=qhws$订阅源-1920x1080
+山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws$订阅源-1920x1080
+陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws$订阅源-1920x1080
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$订阅源-1920x1080
-西藏卫视,http://1.180.2.93:9901/tsfile/live/0111_1.m3u8#rtsp://60.13.39.18/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil$订阅源-1920x1080
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws$订阅源-1920x1080
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0$订阅源-1920x1080
-新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8$订阅源-1920x1080
-云南卫视,http://1.180.2.93:9901/tsfile/live/0119_1.m3u8$订阅源-1920x1080
+西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws$订阅源-1920x1080
+新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws$订阅源-1920x1080
+云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws$订阅源-1920x1080
 
 ☘️广东频道,#genre#
+广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws$订阅源-1920x1080
+大湾区卫视,http://tvbox6.icu/tv/migu.php?id=dwqws$订阅源-1920x1080
+广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh$订阅源-1920x1080
+广州综合,http://tvbox6.icu/tv/gdmzyd.php?id=17$订阅源-1920x1080
+广州影视,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys$订阅源-1920x1080
+广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源-1920x1080
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$订阅源-1920x1080
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528$订阅源-1920x1080
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
-嘉兴新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd$订阅源-1920x1080
-嘉兴新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
 嘉兴新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
+嘉兴新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8$订阅源-1920x1080
+嘉兴新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
 嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1$订阅源-1920x1080
 嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d$订阅源-1920x1080
 舟山新闻综合,http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77bb6a7063c4cdea57f09ca22f9ef12-0-39c19a21f73b823db2150ea45b147eb2$订阅源-1920x1080
@@ -65,35 +93,61 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+七彩戏剧,http://tvbox6.icu/tv/migu.php?id=qcxj$订阅源-1920x1080
+上海外语,http://tvbox6.icu/tv/migu.php?id=shics$订阅源-1920x1080
+上海新闻综合,http://tvbox6.icu/tv/migu.php?id=shxwzh$订阅源-1920x1080
+上海第一财经,http://tvbox6.icu/tv/yicai.php?id=dycjhd$订阅源-1920x1080
+上海纪实,http://tvbox6.icu/tv/migu.php?id=shjsrw$订阅源-1920x1080
+东方影视,http://tvbox6.icu/tv/migu.php?id=dfys$订阅源-1920x1080
+动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83$订阅源-1920x1080
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
-新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
-新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd$订阅源-1920x1080
-新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
-新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8$订阅源-1920x1080
-新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
-都市剧场,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd#http://live.wanyuannews.com/wytv/hd/live.m3u8#http://live.wanyuannews.com:80/wytv/hd/live.m3u8$订阅源-1920x1080
+新闻综合,http://tvbox6.icu/tv/migu.php?id=shxwzh$订阅源-1920x1080
+新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
+欢笑剧场,http://tvbox6.icu/tv/migu.php?id=hxjc$订阅源-1920x1080
+法治天地,http://tvbox6.icu/tv/migu.php?id=fztd$订阅源-1920x1080
+第一财经,http://tvbox6.icu/tv/yicai.php?id=dycjhd$订阅源-1920x1080
 
 ☘️重庆频道,#genre#
-万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd#http://live.wanyuannews.com/wytv/hd/live.m3u8#http://live.wanyuannews.com:80/wytv/hd/live.m3u8$订阅源-1920x1080
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284$订阅源-1920x1080
 
 ☘️江苏频道,#genre#
+优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt$订阅源-1920x1080
 南京十八,http://jx.48tv.cn/nanjing.php?id=sbpd$订阅源-1920x1080
+南京十八,http://tvbox6.icu/tv/migu.php?id=njsb$订阅源-1920x1080
 南京娱乐,http://jx.48tv.cn/nanjing.php?id=ylpd$订阅源-1920x1080
+南京教科,http://tvbox6.icu/tv/migu.php?id=njkj$订阅源-1920x1080
+南京新闻综合,http://tvbox6.icu/tv/migu.php?id=njxwzh$订阅源-1920x1080
 南通新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8$订阅源-1920x1080
 南通都市生活,https://cm-live.ntjoy.com/live/4f3.m3u8$订阅源-1920x1080
+徐州新聞綜合,http://tvbox6.icu/tv/migu.php?id=xzxwzh$订阅源-1920x1080
+江苏城市,http://tvbox6.icu/tv/migu.php?id=jscs$订阅源-1920x1080
+江苏影视,http://tvbox6.icu/tv/migu.php?id=jsys$订阅源-1920x1080
+江苏教育,http://tvbox6.icu/tv/migu.php?id=jsjy$订阅源-1920x1080
+淮安新闻综合,http://tvbox6.icu/tv/migu.php?id=haxwzh$订阅源-1920x1080
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源-1920x1080
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源-1920x1080
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8$订阅源-1920x1080
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
+苏州新闻综合,http://tvbox6.icu/tv/migu.php?id=szxwzh$订阅源-1920x1080
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8$订阅源-1920x1080
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8$订阅源-1920x1080
+连云港新闻综合,http://tvbox6.icu/tv/migu.php?id=lygxwzh$订阅源-1920x1080
 
 ☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
+湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346$订阅源-1920x1080
+湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280$订阅源-1920x1080
+湖南电视剧,http://tvbox6.icu/tv/mgtv.php?id=484$订阅源-1920x1080
+湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221$订阅源-1920x1080
+湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261$订阅源-1920x1080
+湖南娱乐,http://tvbox6.icu/tv/mgtv.php?id=344$订阅源-1920x1080
+湖南国际,http://tvbox6.icu/tv/mgtv.php?id=229$订阅源-1920x1080
+金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316$订阅源-1920x1080
+长沙新闻,http://tvbox6.icu/tv/mgtv.php?id=269$订阅源-1920x1080
+长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254$订阅源-1920x1080
+长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230$订阅源-1920x1080
 
 ☘️湖北频道,#genre#
 
@@ -104,15 +158,14 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源-1920x1080
 
 ☘️四川频道,#genre#
-万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd#http://live.wanyuannews.com/wytv/hd/live.m3u8#http://live.wanyuannews.com:80/wytv/hd/live.m3u8$订阅源-1920x1080
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd$订阅源-1920x1080
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd$订阅源-1920x1080
+双流综合,http://tvbox6.icu/tv/cditv.php?id=slzh$订阅源-1920x1080
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan$订阅源-1920x1080
 夹江新闻综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源-1920x1080
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing$订阅源-1920x1080
 宝兴综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源-1920x1080
 岳池新闻综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b$订阅源-1920x1080
-攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
 攀枝花新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
 旺苍新闻综合,rtmp://tv.wcrmt.cn/channellive/ch1$订阅源-1920x1080
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8$订阅源-1920x1080
@@ -121,6 +174,8 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian$订阅源-1920x1080
 石棉综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8$订阅源-1920x1080
 荥经综合,rtmp://tv.yunxya.com:1937/channellive/yingjing$订阅源-1920x1080
+荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8$订阅源-1920x1080
+金堂电视台,http://tvbox6.icu/tv/cditv.php?id=jttv$订阅源-1920x1080
 金川乡村,rtmp://139.203.180.9/live/jcxc$订阅源-1920x1080
 金川乡村,rtmp://live.jinchuanrmt.com/live/jcxc$订阅源-1920x1080
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw$订阅源-1920x1080
@@ -128,7 +183,6 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 金川新闻综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;$订阅源-1920x1080
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456$订阅源-1920x1080
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;$订阅源-1920x1080
-雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
 马尔康综合,rtmp://live.zmmek.com/live/zhxw$订阅源-1920x1080
 
@@ -137,18 +191,28 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd$订阅源-1920x1080
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd$订阅源-1920x1080
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd$订阅源-1920x1080
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd$订阅源-1920x1080
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd$订阅源-1920x1080
 
 ☘️河南频道,#genre#
 叶县,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8$订阅源-1920x1080
 
 ☘️河北频道,#genre#
+石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4$订阅源-1920x1080
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
-新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8$订阅源-1920x1080
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd$订阅源-1920x1080
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd$订阅源-1920x1080
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd$订阅源-1920x1080
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd$订阅源-1920x1080
+新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws$订阅源-1920x1080
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1$订阅源-1920x1080
 石河子教育,rtmp://124.88.144.73:1935/live/jiaoyu$订阅源-1920x1080
 石河子新闻综合,rtmp://124.88.144.73:1935/live/xwzh$订阅源-1920x1080
@@ -156,14 +220,12 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 ☘️山东频道,#genre#
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd$订阅源-1920x1080
 临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源-1920x1080
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源-1920x1080
-临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8$订阅源-1920x1080
-临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 
 ☘️山西频道,#genre#
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0$订阅源-1920x1080
 太谷新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
 长子综合,rtmp://zzlive.zzc-media.com/live/xwzh$订阅源-1920x1080
+黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源-1920x1080
 
 ☘️安徽频道,#genre#
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1$订阅源-1920x1080
@@ -177,6 +239,7 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
+普洱新闻综合,https://zhibo.puerw.cn/puer/d8a31925-f343-425b-a4fc-c9e945d23087.m3u8$订阅源-1920x1080
 
 ☘️青海频道,#genre#
 门源综合,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源-1920x1080
@@ -187,43 +250,65 @@ CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源-1920x1080
+凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
+Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源-1920x1080
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 
 🎬电影频道,#genre#
+CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy$订阅源-1920x1080
+CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy$订阅源-1920x1080
+靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 星空卫视,http://65.108.74.147:49366/iptv.php?key=gat10&id=3$订阅源-2252x1080
+星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源-1920x1080
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8$订阅源-1920x1080
+CCTV-5,http://tvbox6.icu/tv/migu.php?id=cctv5$订阅源-1920x1080
+CCTV-5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$订阅源-1920x1080
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty$订阅源-1920x1080
 爱体育,http://v.tik686.com:50001/TVOD/6000000006000290630/wasusyt/index.m3u8?ace$订阅源-1920x1080
+广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源-1920x1080
+天津体育,http://tvbox6.icu/tv/9dtjlt.php?id=6$订阅源-1920x1080
+睛彩篮球,http://tvbox6.icu/tv/zb/zjctcc.php?id=344$订阅源-1920x1080
+睛彩羽毛球,http://tvbox6.icu/tv/zb/zjctcc.php?id=346$订阅源-1920x1080
+魅力足球,http://tvbox6.icu/tv/migu.php?id=mlzq$订阅源-1920x1080
+快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218$订阅源-1920x1080
 
 🪁动画频道,#genre#
+动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83$订阅源-1920x1080
 爱动漫,http://v.tik686.com:50001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace$订阅源-1920x1080
+CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt$订阅源-1920x1080
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$订阅源-1920x1080
 
 🎮游戏频道,#genre#
+游戏风云,http://tvbox6.icu/tv/migu.php?id=yxfy$订阅源-1920x1080
 
 🎵音乐频道,#genre#
+CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15$订阅源-1920x1080
 
 🏛经典剧场,#genre#
 
 🈳无结果频道,#genre#
-CCTV-2,url
-CCTV-3,url
-CCTV-4,url
-CCTV-5+,url
-CCTV-6,url
-CCTV-7,url
-CCTV-8,url
-CCTV-9,url
-CCTV-10,url
-CCTV-11,url
-CCTV-12,url
-CCTV-13,url
-CCTV-14,url
-CCTV-15,url
 CCTV-16,url
-CCTV-17,url
 CGTN阿拉伯语,url
 CGTN西班牙语,url
 CGTN英语,url
@@ -233,7 +318,6 @@ CETV1,url
 CETV2,url
 CETV4,url
 CETV5,url
-CHC影迷电影,url
 央视文化精品,url
 南国都市4K,url
 广东综艺4K,url
@@ -263,7 +347,6 @@ IPTV4,url
 早期教育,url
 嘉佳卡通,url
 经济科教,url
-睛彩竞技,url
 睛彩青少,url
 客家生活,url
 南方购物,url
@@ -279,7 +362,6 @@ IPTV4,url
 广东少儿,url
 广东影视,url
 广州法治,url
-广州新闻,url
 河源公共,url
 河源综合,url
 江门教育,url
@@ -314,33 +396,19 @@ IPTV4,url
 中山教育,url
 中山综合,url
 珠海,url
-广东卫视,url
 香港卫视,url
 浙江卫视,url
-湖南卫视,url
+北京卫视,url
 安徽卫视,url
-重庆卫视,url
-东方卫视,url
 东南卫视,url
-甘肃卫视,url
-贵州卫视,url
-吉林卫视,url
-江苏卫视,url
-宁夏卫视,url
+河北卫视,url
 山西卫视,url
-陕西卫视,url
 四川卫视,url
-三沙卫视,url
 天津卫视,url
 广东珠江,url
 广东体育,url
 广东新闻,url
-广东卫视,url
 广东民生,url
-大湾区卫视,url
-广州综合,url
-广州影视,url
-广州竞赛,url
 江门综合,url
 江门侨乡生活,url
 佛山综合,url
@@ -481,33 +549,25 @@ BTV纪实,url
 清华大学电视台,url
 石景山有线,url
 通州电视台,url
-七彩戏剧,url
-上海外语,url
 上海教育,url
-上海新闻综合,url
 上海点掌财经,url
-上海第一财经,url
-上海纪实,url
 上海都市,url
 上海金山电视台,url
 上视外语,url
 上视新闻,url
-东方影视,url
 东方财经,url
 全纪实,url
-动漫秀场,url
 哈哈炫动,url
 嘉定电视台,url
 天水公共,url
 崇明电视台,url
-欢笑剧场,url
-法治天地,url
 生活时尚,url
-第一财经,url
 纪实人文,url
+都市剧场,url
 金山电视台,url
 金色频道,url
 璧山综合,url
+万源新闻综合,url
 铜梁综合,url
 重庆汽摩,url
 荣昌综合,url
@@ -526,12 +586,9 @@ BTV纪实,url
 东海新闻,url
 仪征新闻综合,url
 仪征生活,url
-优漫卡通,url
 六合新闻综合,url
 南京信息,url
 南京少儿,url
-南京教科,url
-南京新闻综合,url
 南京生活,url
 南通三套公共,url
 南通二套社教,url
@@ -563,7 +620,6 @@ BTV纪实,url
 徐州公共頻道,url
 徐州公共,url
 徐州文艺影院,url
-徐州新聞綜合,url
 徐州經濟生活,url
 徐州贾汪旅游,url
 扬中党建民生,url
@@ -585,9 +641,6 @@ BTV纪实,url
 江宁电视台综合,url
 江苏体育,url
 江苏公共,url
-江苏城市,url
-江苏影视,url
-江苏教育,url
 沛县新闻综合,url
 沭阳综合,url
 泗洪新闻综合,url
@@ -600,7 +653,6 @@ BTV纪实,url
 涟水综合,url
 淮安公共,url
 淮安影院娱乐,url
-淮安新闻综合,url
 淮阴影院,url
 淮阴综合,url
 溧水影视娱乐,url
@@ -615,7 +667,6 @@ BTV纪实,url
 贾汪旅游,url
 赣榆新闻综合,url
 连云港公共,url
-连云港新闻综合,url
 金坛新闻,url
 镇江二套社会民生,url
 镇江新闻综合,url
@@ -632,23 +683,12 @@ BTV纪实,url
 辽宁都市,url
 锦州一套新闻综合,url
 锦州二套教育,url
-湖南都市,url
 湖南视剧,url
-湖南经视,url
-湖南电视剧,url
-湖南电影,url
-湖南爱晚,url
 湖南教育,url
-湖南娱乐,url
-湖南国际,url
 湖南公共,url
-金鹰纪实,url
 湖南金鹰纪实,url
 长沙新闻综合,url
-长沙新闻,url
-长沙政法,url
 长沙影视,url
-长沙女性,url
 醴陵综合,url
 衡阳新闻综合,url
 衡阳公共,url
@@ -764,6 +804,7 @@ BTV纪实,url
 天津新闻,url
 天津文艺,url
 天津卫视,url
+万源新闻综合,url
 东兴综合,url
 乐山公共,url
 乐山新闻综合,url
@@ -780,7 +821,6 @@ BTV纪实,url
 南充公共,url
 南充新闻,url
 南充科教,url
-双流综合,url
 叙州新闻综合,url
 叙永综合,url
 四川科教,url
@@ -832,12 +872,12 @@ BTV纪实,url
 遂宁新闻综合,url
 邻水新闻综合,url
 金口河综合,url
-金堂电视台,url
 金阳综合,url
 阿坝文艺,url
 阿坝综合,url
 隆昌新闻综合,url
 雅安公共,url
+雅安新闻综合,url
 雅安雨城,url
 青神综合,url
 马边电视台,url
@@ -896,11 +936,6 @@ BTV纪实,url
 福建海峡卫视,url
 漳州新闻,url
 龙岩综合,url
-海南新闻,url
-海南自贸,url
-海南文旅,url
-海南少儿,url
-海南公共,url
 海南电视台经济,url
 海口一套综合,url
 海口二套生活娱乐,url
@@ -977,7 +1012,6 @@ BTV纪实,url
 衡水公共,url
 石家庄都市,url
 石家庄生活,url
-石家庄新闻综合,url
 石家庄娱乐,url
 滦平新闻,url
 河北都市,url
@@ -1102,10 +1136,6 @@ BTV纪实,url
 哈密一套,url
 哈密二套,url
 哈密三套,url
-伊犁汉语综合,url
-伊犁维吾尔,url
-伊犁哈萨克,url
-伊犁经济法制,url
 裕民汉语,url
 裕民哈语,url
 兵团四师可克达拉综合,url
@@ -1164,6 +1194,8 @@ BTV纪实,url
 威海二套公共,url
 东营综合,url
 中华美食,url
+临沂农科,url
+临沂新闻综合,url
 垦利新闻,url
 岱岳综合,url
 日照公共,url
@@ -1239,7 +1271,6 @@ BTV纪实,url
 阳曲综合,url
 高平综合,url
 黄河电视台,url
-黎城综合,url
 安徽国际,url
 安徽影视,url
 安徽经济生活,url
@@ -1388,7 +1419,6 @@ BTV纪实,url
 昆明经济生活,url
 易门综合,url
 普洱公共,url
-普洱新闻综合,url
 梁河综合,url
 永善综合,url
 江川综合,url
@@ -1460,30 +1490,17 @@ BTV纪实,url
 齐齐哈尔经济法制,url
 双鸭山综合,url
 七台河民生社教,url
-翡翠台,url
 明珠台,url
-凤凰中文,url
 凤凰资讯,url
-凤凰香港,url
 凤凰卫视,url
 TVBS亚洲,url
 香港卫视,url
-纬来体育,url
-纬来育乐,url
 J2,url
-三立台湾,url
 无线新闻,url
-三立新闻,url
-东森综合,url
-东森超视,url
-东森电影,url
 Now剧集,url
 Now华剧,url
-靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
-CHC家庭影院,url
-CHC动作电影,url
 CHC高清电影,url
 淘剧场,url
 淘娱乐,url
@@ -1492,19 +1509,12 @@ NewTV惊悚悬疑,url
 NewTV动作电影,url
 黑莓电影,url
 纬来电影,url
-靖天映画,url
-靖天戏剧,url
 星卫娱乐,url
 艾尔达娱乐,url
-经典电影,url
 IPTV经典电影,url
-天映经典,url
 无线星河,url
 私人影院,url
-东森电影,url
 龙祥电影,url
-东森洋片,url
-东森超视,url
 咪咕直播1,url
 咪咕直播2,url
 咪咕直播3,url
@@ -1550,43 +1560,30 @@ IPTV经典电影,url
 咪咕直播43,url
 咪咕直播44,url
 咪咕直播45,url
-CCTV-5+,url
 广东体育,url
-纬来体育,url
 五星体育,url
 体育赛事,url
-劲爆体育,url
 超级体育,url
 精品体育,url
-广州竞赛,url
 深圳体育,url
 福建体育,url
 辽宁体育,url
 山东体育,url
 成都体育,url
-天津体育,url
 江苏体育,url
 安徽综艺体育,url
 吉林篮球,url
-睛彩篮球,url
-睛彩羽毛球,url
 睛彩广场舞,url
 风云足球,url
 足球频道,url
-魅力足球,url
 天元围棋,url
-快乐垂钓,url
 JJ斗地主,url
 少儿动画,url
 卡酷动画,url
-动漫秀场,url
 新动漫,url
 青春动漫,url
 中录动漫,url
 宝宝动画,url
-CN卡通,url
-优漫卡通,url
-金鹰卡通,url
 睛彩少儿,url
 黑莓动画,url
 炫动卡通,url
@@ -1602,13 +1599,11 @@ CN卡通,url
 经典动漫,url
 蜡笔小新,url
 漫画解说,url
-游戏风云,url
 游戏竞技,url
 电竞游戏,url
 海看电竞,url
 电竞天堂,url
 爱电竞,url
-CCTV-15,url
 风云音乐,url
 音乐现场,url
 音乐之声,url
