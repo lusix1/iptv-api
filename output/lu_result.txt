@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-09 18:44:25,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
+2025-03-10 06:38:31,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
@@ -12,24 +12,22 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 
 📡卫视频道,#genre#
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源-1920x1080
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws$订阅源-1920x1080
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$订阅源-1920x1080
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws$订阅源-1920x1080
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0$订阅源-1920x1080
 
 ☘️广东频道,#genre#
-广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh$订阅源-1920x1080
-广州影视,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys$订阅源-1920x1080
-广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源-1920x1080
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$订阅源-1920x1080
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528$订阅源-1920x1080
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
+嘉兴新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 嘉兴新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
-嘉兴新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"$订阅源-1920x1080
+嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
+嘉兴新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
+嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
+嘉兴新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8$订阅源-1920x1080
 嘉兴新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8$订阅源-1920x1080
 嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1$订阅源-1920x1080
 嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d$订阅源-1920x1080
 舟山新闻综合,http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77bb6a7063c4cdea57f09ca22f9ef12-0-39c19a21f73b823db2150ea45b147eb2$订阅源-1920x1080
@@ -49,9 +47,14 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+东方财经,http://124.248.69.76:26781/douyu/9548279$订阅源-1920x1080
+动漫秀场,http://124.248.69.76:26781/douyu/9548279$订阅源-1920x1080
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
+新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"$订阅源-1920x1080
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
+新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
+新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
 
 ☘️重庆频道,#genre#
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284$订阅源-1920x1080
@@ -59,6 +62,7 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 ☘️江苏频道,#genre#
 南京十八,http://jx.48tv.cn/nanjing.php?id=sbpd$订阅源-1920x1080
 南京娱乐,http://jx.48tv.cn/nanjing.php?id=ylpd$订阅源-1920x1080
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源-1920x1080
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源-1920x1080
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8$订阅源-1920x1080
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源-1920x1080
@@ -75,25 +79,26 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd$订阅源-1920x1080
 
 ☘️天津频道,#genre#
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源-1920x1080
 
 ☘️四川频道,#genre#
-井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8$订阅源-1920x1080
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd$订阅源-1920x1080
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd$订阅源-1920x1080
-剑阁综合,https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8$订阅源-1920x1080
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan$订阅源-1920x1080
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd$订阅源-1920x1080
 夹江新闻综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源-1920x1080
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing$订阅源-1920x1080
 宝兴综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源-1920x1080
 岳池新闻综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b$订阅源-1920x1080
+攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
 攀枝花新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源-1920x1080
 旺苍新闻综合,rtmp://tv.wcrmt.cn/channellive/ch1$订阅源-1920x1080
+旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8$订阅源-1920x1080
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd;http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd$订阅源-1920x1080
 泸县新闻综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8$订阅源-1920x1080
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian$订阅源-1920x1080
 石棉综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8$订阅源-1920x1080
 荥经综合,rtmp://tv.yunxya.com:1937/channellive/yingjing$订阅源-1920x1080
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8$订阅源-1920x1080
 金川乡村,rtmp://139.203.180.9/live/jcxc$订阅源-1920x1080
 金川乡村,rtmp://live.jinchuanrmt.com/live/jcxc$订阅源-1920x1080
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw$订阅源-1920x1080
@@ -101,6 +106,8 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 金川新闻综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;$订阅源-1920x1080
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456$订阅源-1920x1080
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd四川卫视$订阅源-1920x1080
+雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源-1920x1080
+雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8$订阅源-1920x1080
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源-1920x1080
 马尔康综合,rtmp://live.zmmek.com/live/zhxw$订阅源-1920x1080
 
@@ -109,17 +116,11 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
-海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd$订阅源-1920x1080
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd$订阅源-1920x1080
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd$订阅源-1920x1080
-海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd$订阅源-1920x1080
-海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd$订阅源-1920x1080
 
 ☘️河南频道,#genre#
 叶县,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8$订阅源-1920x1080
 
 ☘️河北频道,#genre#
-石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4$订阅源-1920x1080
 
 ☘️贵州频道,#genre#
 
@@ -136,6 +137,10 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 
 ☘️山东频道,#genre#
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd$订阅源-1920x1080
+临沂公共,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源-1920x1080
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源-1920x1080
+临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8$订阅源-1920x1080
+临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源-1920x1080
 
 ☘️山西频道,#genre#
 太谷新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源-1920x1080
@@ -145,7 +150,6 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 
 ☘️安徽频道,#genre#
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1$订阅源-1920x1080
-广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8$订阅源-1920x1080
 
 ☘️宁夏频道,#genre#
 银川公共,http://play-sh13.quklive.com:80/live/1667883943560053.m3u8?auth_key=2015914283-08371389613b4c0ea3c6dff651dc7342-0-532f80aa10dc71b9376a1f0f37975064$订阅源-1920x1080
@@ -158,37 +162,68 @@ CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_b
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
+普洱新闻综合,https://zhibo.puerw.cn/puer/d8a31925-f343-425b-a4fc-c9e945d23087.m3u8$订阅源-1920x1080
 
 ☘️青海频道,#genre#
-门源综合,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源-1920x1080
 门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd$订阅源-1920x1080
-贵南综合,https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8$订阅源-1920x1080
+门源综合,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源-1920x1080
 贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd$订阅源-1920x1080
-化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8$订阅源-1920x1080
+贵南综合,https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8$订阅源-1920x1080
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd$订阅源-1920x1080
+化隆综合,https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8$订阅源-1920x1080
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8$订阅源-1920x1080
 兴海综合,https://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8?$订阅源-1920x1080
 
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源-1920x1080
+凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
+Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源-1920x1080
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 
 🎬电影频道,#genre#
+靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+经典电影,http://124.248.69.76:26781/yy/1356363815$订阅源-1920x1080
+天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 星空卫视,http://65.108.74.147:49366/iptv.php?key=gat10&id=3$订阅源-2252x1080
+星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源-1920x1080
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源-1920x1080
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
+爱体育,http://v.tik686.com:50001/TVOD/6000000006000290630/wasusyt/index.m3u8?ace$订阅源-1920x1080
 
 🪁动画频道,#genre#
+动漫秀场,http://124.248.69.76:26781/douyu/9548279$订阅源-1920x1080
+新动漫,http://124.248.69.76:26781/douyu/9548279$订阅源-1920x1080
+爱动漫,http://v.tik686.com:50001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace$订阅源-1920x1080
+CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+海绵宝宝,http://124.248.69.76:26781/huya/11352919$订阅源-1920x1080
+漫画解说,http://124.248.69.76:26781/douyu/5907076$订阅源-1920x1080
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://124.248.69.76:26781/huya/23865142$订阅源-1920x1080
+三国演义,http://124.248.69.76:26781/huya/11602081$订阅源-1920x1080
 
 🈳无结果频道,#genre#
 CCTV-2,url
@@ -311,6 +346,7 @@ IPTV4,url
 甘肃卫视,url
 广西卫视,url
 贵州卫视,url
+海南卫视,url
 河北卫视,url
 河南卫视,url
 吉林卫视,url
@@ -324,6 +360,7 @@ IPTV4,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
+三沙卫视,url
 天津卫视,url
 新疆卫视,url
 云南卫视,url
@@ -333,6 +370,9 @@ IPTV4,url
 广东卫视,url
 广东民生,url
 大湾区卫视,url
+广州综合,url
+广州影视,url
+广州竞赛,url
 江门综合,url
 江门侨乡生活,url
 佛山综合,url
@@ -485,9 +525,7 @@ BTV纪实,url
 上视外语,url
 上视新闻,url
 东方影视,url
-东方财经,url
 全纪实,url
-动漫秀场,url
 哈哈炫动,url
 嘉定电视台,url
 天水公共,url
@@ -601,7 +639,6 @@ BTV纪实,url
 淮阴综合,url
 溧水影视娱乐,url
 溧水新闻综合,url
-滨海新闻综合,url
 盐都综合,url
 睢宁三农,url
 睢宁生活教育,url
@@ -753,7 +790,6 @@ BTV纪实,url
 广西乐思购,url
 南宁影视娱乐,url
 宁河新闻,url
-滨海新闻,url
 滨海综艺,url
 滨海影院,url
 津南一套,url
@@ -768,11 +804,13 @@ BTV纪实,url
 乐山新闻综合,url
 乐至综合,url
 九寨沟新闻综合,url
+井研综合,url
 什邡新闻,url
 仁和综合,url
 仁寿综合,url
 凉山语,url
 前锋电视台,url
+剑阁综合,url
 北川电视一套,url
 南充公共,url
 南充新闻,url
@@ -835,7 +873,6 @@ BTV纪实,url
 阿坝综合,url
 隆昌新闻综合,url
 雅安公共,url
-雅安新闻综合,url
 雅安雨城,url
 青神综合,url
 马边电视台,url
@@ -894,6 +931,11 @@ BTV纪实,url
 福建海峡卫视,url
 漳州新闻,url
 龙岩综合,url
+海南新闻,url
+海南自贸,url
+海南文旅,url
+海南少儿,url
+海南公共,url
 海南电视台经济,url
 海口一套综合,url
 海口二套生活娱乐,url
@@ -970,6 +1012,7 @@ BTV纪实,url
 衡水公共,url
 石家庄都市,url
 石家庄生活,url
+石家庄新闻综合,url
 石家庄娱乐,url
 滦平新闻,url
 河北都市,url
@@ -1153,9 +1196,6 @@ BTV纪实,url
 威海二套公共,url
 东营综合,url
 中华美食,url
-临沂公共,url
-临沂农科,url
-临沂新闻综合,url
 垦利新闻,url
 岱岳综合,url
 日照公共,url
@@ -1275,6 +1315,7 @@ BTV纪实,url
 桐城新闻,url
 枞阳综合,url
 当涂新闻综合,url
+广德生活,url
 广德新闻综合,url
 岳西综合,url
 屯溪融媒,url
@@ -1376,7 +1417,6 @@ BTV纪实,url
 昆明经济生活,url
 易门综合,url
 普洱公共,url
-普洱新闻综合,url
 梁河综合,url
 永善综合,url
 江川综合,url
@@ -1447,26 +1487,15 @@ BTV纪实,url
 齐齐哈尔经济法制,url
 双鸭山综合,url
 七台河民生社教,url
-翡翠台,url
 明珠台,url
-凤凰中文,url
 凤凰资讯,url
-凤凰香港,url
 凤凰卫视,url
 TVBS亚洲,url
 香港卫视,url
-纬来体育,url
-纬来育乐,url
 J2,url
-三立台湾,url
 无线新闻,url
-三立新闻,url
-东森综合,url
-东森超视,url
-东森电影,url
 Now剧集,url
 Now华剧,url
-靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
 CHC家庭影院,url
@@ -1479,19 +1508,12 @@ NewTV惊悚悬疑,url
 NewTV动作电影,url
 黑莓电影,url
 纬来电影,url
-靖天映画,url
-靖天戏剧,url
 星卫娱乐,url
 艾尔达娱乐,url
-经典电影,url
 IPTV经典电影,url
-天映经典,url
 无线星河,url
 私人影院,url
-东森电影,url
 龙祥电影,url
-东森洋片,url
-东森超视,url
 咪咕直播1,url
 咪咕直播2,url
 咪咕直播3,url
@@ -1540,13 +1562,12 @@ IPTV经典电影,url
 CCTV-5,url
 CCTV-5+,url
 广东体育,url
-纬来体育,url
 五星体育,url
 体育赛事,url
 劲爆体育,url
-爱体育,url
 超级体育,url
 精品体育,url
+广州竞赛,url
 深圳体育,url
 福建体育,url
 辽宁体育,url
@@ -1567,13 +1588,9 @@ CCTV-5+,url
 JJ斗地主,url
 少儿动画,url
 卡酷动画,url
-动漫秀场,url
-新动漫,url
 青春动漫,url
-爱动漫,url
 中录动漫,url
 宝宝动画,url
-CN卡通,url
 优漫卡通,url
 金鹰卡通,url
 睛彩少儿,url
@@ -1584,13 +1601,11 @@ CN卡通,url
 河北少儿科教,url
 七龙珠,url
 火影忍者,url
-海绵宝宝,url
 中华小当家,url
 斗破苍穹玄幻剧,url
 猫和老鼠,url
 经典动漫,url
 蜡笔小新,url
-漫画解说,url
 游戏风云,url
 游戏竞技,url
 电竞游戏,url
@@ -1605,12 +1620,10 @@ CCTV-15,url
 天津音乐,url
 音乐广播,url
 音乐调频广播,url
-笑傲江湖,url
 天龙八部,url
 鹿鼎记,url
 仙剑奇侠传,url
 西游记,url
-三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
